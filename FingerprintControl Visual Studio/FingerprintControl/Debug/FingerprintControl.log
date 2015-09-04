@@ -1,0 +1,26 @@
+﻿Build started 03/09/2015 12:04:48.
+     1>Project "c:\Users\alexandre\documents\visual studio 2013\Projects\FingerprintControl\FingerprintControl\FingerprintControl.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\FingerprintControl.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\FingerprintControl.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CommBase.cpp FingerprintControl.cpp OEM.cpp sb_protocol_oem.cpp
+         sb_protocol_oem.cpp
+         OEM.cpp
+         FingerprintControl.cpp
+         CommBase.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /nologo /fo"Debug\FingerprintControl.res" FingerprintControl.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\alexandre\documents\visual studio 2013\Projects\FingerprintControl\Debug\FingerprintControl.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"c:\users\alexandre\documents\visual studio 2013\Projects\FingerprintControl\Debug\FingerprintControl.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\alexandre\documents\visual studio 2013\Projects\FingerprintControl\Debug\FingerprintControl.lib" /MACHINE:X86 Debug\FingerprintControl.res
+         Debug\CommBase.obj
+         Debug\FingerprintControl.obj
+         Debug\OEM.obj
+         Debug\sb_protocol_oem.obj
+         Debug\stdafx.obj
+         FingerprintControl.vcxproj -> c:\users\alexandre\documents\visual studio 2013\Projects\FingerprintControl\Debug\FingerprintControl.exe
+     1>Done Building Project "c:\Users\alexandre\documents\visual studio 2013\Projects\FingerprintControl\FingerprintControl\FingerprintControl.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.41
